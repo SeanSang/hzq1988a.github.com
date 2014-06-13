@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"point",
+				"pointZ"
+			],
+			[
+				"radi",
+				"radiusX"
+			],
+			[
+				"timelin",
+				"timelineZ"
+			],
+			[
+				"timel",
+				"timelineX"
+			],
+			[
+				"time",
+				"timelineZ"
+			],
+			[
+				"tim",
+				"timelineY"
+			],
+			[
+				"obj",
+				"objects"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2014-06-05-hello-world.md",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "博客.sublime-project",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/houzhq/Documents/project/dbyll/assets/ico/apple-touch-icon-144-precomposed.png",
+		"/Users/houzhq/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/houzhq/calefy.github.com/404.html",
+		"/Users/houzhq/calefy.github.com/_posts/2012-2-29-jekyll-introduction.md",
+		"/Users/houzhq/百度云同步盘/bishe/bishe.html",
+		"/Users/houzhq/百度云同步盘/bishe/cs291/cs291/demo/unit1-teacup-demo.js",
+		"/Users/houzhq/百度云同步盘/bishe/cs291/cs291/demo/unit2-z-fighting_fixed.js",
+		"/Users/houzhq/百度云同步盘/bishe/bishe1.html",
+		"/Users/houzhq/百度云同步盘/bishe/解析数据相关/Data.txt",
+		"/Users/houzhq/Desktop/毕设相关/getSEGData.php",
+		"/Users/houzhq/百度云同步盘/bishe/解析数据相关/getSEGData.php",
+		"/Users/houzhq/百度云同步盘/bishe/lib/Coordinates.js",
+		"/Users/houzhq/Downloads/eventdispatcher.js/examples/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/houzhq/百度云同步盘/bishe/cs291/cs291/demo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var geometryt1 = new THREE.Geometry();\n                for(var i = 1;i < 11; i++){\n                    var a = x/10*i,b = y/10*i,c = z/10*i;\n                    // MODELS\n                    \n                }",
+			"var point = new THREE.Line( geometryt1, new THREE.LineBasicMaterial( { color:'red',linewidth:2 } ), THREE.LinePieces );\n                scene.add(point);",
+			"objects",
+			"projector",
+			"pickingRay",
+			"EventDispatcher",
+			"fillScene",
+			"scene",
+			"se",
+			"sece",
+			"phongMaterial",
+			"createShaderMaterial",
+			"objects",
+			"object",
+			"object's",
+			"shininess",
+			"scene",
+			"sec",
+			"onDocumentMouseDown",
+			"canvas-frame",
+			"Coordinates",
+			"Raycaster",
+			"plane",
+			"container",
+			"mouse",
+			"stats",
+			"controls",
+			"onDocumentMouseDown",
+			"SELECTED",
+			"INTERSECTED",
+			"objects",
+			"mouseVector",
+			"mouse",
+			"objects",
+			"renderer",
+			"theta",
+			"cameraControls",
+			"cameraCo",
+			"addEventListener",
+			"animate",
+			"canvasRatio",
+			"width",
+			"canvasWidth",
+			"renderer",
+			"sphereGeom",
+			"camera"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2014-06-05-hello-world.md",
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "博客.sublime-project",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
